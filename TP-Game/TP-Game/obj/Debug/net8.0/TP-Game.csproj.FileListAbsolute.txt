@@ -1,0 +1,14 @@
+C:\Users\Mewo\source\repos\TP-Game\TP-Game\bin\Debug\net8.0\TP-Game.exe
+C:\Users\Mewo\source\repos\TP-Game\TP-Game\bin\Debug\net8.0\TP-Game.deps.json
+C:\Users\Mewo\source\repos\TP-Game\TP-Game\bin\Debug\net8.0\TP-Game.runtimeconfig.json
+C:\Users\Mewo\source\repos\TP-Game\TP-Game\bin\Debug\net8.0\TP-Game.dll
+C:\Users\Mewo\source\repos\TP-Game\TP-Game\bin\Debug\net8.0\TP-Game.pdb
+C:\Users\Mewo\source\repos\TP-Game\TP-Game\obj\Debug\net8.0\TP-Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mewo\source\repos\TP-Game\TP-Game\obj\Debug\net8.0\TP-Game.AssemblyInfoInputs.cache
+C:\Users\Mewo\source\repos\TP-Game\TP-Game\obj\Debug\net8.0\TP-Game.AssemblyInfo.cs
+C:\Users\Mewo\source\repos\TP-Game\TP-Game\obj\Debug\net8.0\TP-Game.csproj.CoreCompileInputs.cache
+C:\Users\Mewo\source\repos\TP-Game\TP-Game\obj\Debug\net8.0\TP-Game.dll
+C:\Users\Mewo\source\repos\TP-Game\TP-Game\obj\Debug\net8.0\refint\TP-Game.dll
+C:\Users\Mewo\source\repos\TP-Game\TP-Game\obj\Debug\net8.0\TP-Game.pdb
+C:\Users\Mewo\source\repos\TP-Game\TP-Game\obj\Debug\net8.0\TP-Game.genruntimeconfig.cache
+C:\Users\Mewo\source\repos\TP-Game\TP-Game\obj\Debug\net8.0\ref\TP-Game.dll
